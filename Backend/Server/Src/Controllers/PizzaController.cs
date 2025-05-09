@@ -17,9 +17,10 @@ namespace Server.Controllers
     }
 
     [HttpGet("Menu")]
-    public IActionResult GetAllPizzas()
+    public async Task<IActionResult> GetAllPizzas()
     {
-      var pizzas = _context.Pizzas.ToListAsync();
+      var pizzas = await _context.Pizzas.ToListAsync();
+      Console.WriteLine(pizzas);
       return Ok(pizzas);
 
     }

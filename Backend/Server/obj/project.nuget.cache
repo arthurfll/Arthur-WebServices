@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "AhAUeCZHYis=",
+  "dgSpecHash": "Iu1y4GljdQ4=",
   "success": true,
-  "projectFilePath": "C:\\Users\\joaoa\\OneDrive\\Área de Trabalho\\Pizzaria-Dotnet-Angular\\backend\\Server\\Server.csproj",
+  "projectFilePath": "C:\\Users\\joaoa\\OneDrive\\Área de Trabalho\\Pizzaria-Dotnet-Angular\\Backend\\Server\\Server.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\joaoa\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\joaoa\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.1\\microsoft.aspnetcore.openapi.9.0.1.nupkg.sha512",

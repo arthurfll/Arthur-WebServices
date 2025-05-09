@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\joaoa\\OneDrive\\Área de Trabalho\\Pizzaria-Dotnet-Angular\\backend\\Server\\Server.csproj": {}
+    "C:\\Users\\joaoa\\OneDrive\\Área de Trabalho\\Pizzaria-Dotnet-Angular\\Backend\\Server\\Server.csproj": {}
   },
   "projects": {
-    "C:\\Users\\joaoa\\OneDrive\\Área de Trabalho\\Pizzaria-Dotnet-Angular\\backend\\Server\\Server.csproj": {
+    "C:\\Users\\joaoa\\OneDrive\\Área de Trabalho\\Pizzaria-Dotnet-Angular\\Backend\\Server\\Server.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\joaoa\\OneDrive\\Área de Trabalho\\Pizzaria-Dotnet-Angular\\backend\\Server\\Server.csproj",
+        "projectUniqueName": "C:\\Users\\joaoa\\OneDrive\\Área de Trabalho\\Pizzaria-Dotnet-Angular\\Backend\\Server\\Server.csproj",
         "projectName": "Server",
-        "projectPath": "C:\\Users\\joaoa\\OneDrive\\Área de Trabalho\\Pizzaria-Dotnet-Angular\\backend\\Server\\Server.csproj",
+        "projectPath": "C:\\Users\\joaoa\\OneDrive\\Área de Trabalho\\Pizzaria-Dotnet-Angular\\Backend\\Server\\Server.csproj",
         "packagesPath": "C:\\Users\\joaoa\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\joaoa\\OneDrive\\Área de Trabalho\\Pizzaria-Dotnet-Angular\\backend\\Server\\obj\\",
+        "outputPath": "C:\\Users\\joaoa\\OneDrive\\Área de Trabalho\\Pizzaria-Dotnet-Angular\\Backend\\Server\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
