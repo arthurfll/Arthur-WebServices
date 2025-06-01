@@ -1,4 +1,0 @@
-[ ] CARDÁPIO
-[ ] LANÇAR VENDA
-[ ] DASHBOARD
-
