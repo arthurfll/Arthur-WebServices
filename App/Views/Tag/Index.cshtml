@@ -1,0 +1,43 @@
+@model List<CategoryTag>
+
+<div class="container">
+
+  <div class="row pt-4 pb-3">
+
+    <div class="col-6">
+      <h1>Tags</h1>
+    </div>
+    <div class="col-6 text-end">
+      <a href="#" class="btn btn-primary">
+        <i class="bi bi-plus-circle"></i>  Nova tag
+      </a>
+    </div>
+
+  </div>
+
+<table class="table table-bordered table-striped">
+  <thead>
+    <tr>
+
+      <th>Nome da Tag</th>
+      <th>Editar</th>
+
+    </tr>
+  </thead>
+
+
+  <tbody>
+    @foreach(var obj in Model)
+    {
+      <tr>
+
+        <td>@obj.Name</td>
+        <td><a asp-controller="Tag" asp-action="Editar" asp-route-itemid="@obj.Id" class="primary-btn btn "></a></td>
+
+      </tr>
+    }
+  </tbody>
+</table>
+</div>
+
+
